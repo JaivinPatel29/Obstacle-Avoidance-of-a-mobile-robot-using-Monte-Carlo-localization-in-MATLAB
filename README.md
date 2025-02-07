@@ -1,0 +1,2 @@
+# Obstacle-Avoidance-of-a-mobile-robot-using-Monte-Carlo-localization-in-MATLAB
+In this project, simulation and path planning is performed for a mobile robot on inbuilt MATLAB map. Localization of the robot is performed using Monte-Carlo algorithm for doing obstacle avoidance for the mobile robot. Real time display of movement mobile robot on the map is plotted and the path travelled by the robot in the map is plotted.
